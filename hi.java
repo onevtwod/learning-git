@@ -1,3 +1,8 @@
-public static void main(String[] args) {
-  System.out.println("Hellow");
+public class hi {
+  public static void main(String[] args) {
+    System.out.println("Hellow");
+    // Mama mia
+  }
 }
+
+
